@@ -1,0 +1,51 @@
+[
+    {
+      "question": "How to make an appointment?    ",
+      "answer" : "Customers can make an appointment through our WeChat official account or applet on the computer and mobile terminals, and directly make an appointment for services, such as printer maintenance, system installation, program development, data recovery, screen replacement, etc. "
+    },
+    
+    {
+      "question": "Is it possible to carry out on-site maintenance?   ",
+      "answer" : "Our reservation system supports two modes: appointment to person or resource. The appointment duration supports three modes: fixed duration, self selection duration, and duration calculation based on service items. The system has a shift scheduling system, which supports temporary adjustment of scheduling and other dimensions.  "
+    },
+     
+    {
+      "question": "What if I worry about the maintenance progress of the computer? ",
+      "answer" : "Our background supports a powerful Kanban function, which can clearly see the reservation."
+    },
+  
+    {
+      "question": " How to pay ",
+      "answer" : " We support WeChat payment and online payment with stored value. At the same time, we also support subprime cards and coupons."
+    },
+  
+    {
+      "question": "Which models are supported? ",
+      "answer" : "We support Apple, Huawei, Xiaomi, Glory, ThinkPad, Microsoft, Lenovo, Acer, HP, Asus, Dell, etc. "
+    },
+  
+    {
+      "question": " What is the on-site repair service process?",
+      "answer" : "On site repair is mainly divided into four steps: order submission ->on-site assignment ->equipment repair ->payment."
+    },
+  
+    {
+      "question": " What is the mail repair service process?      ",
+      "answer" : " The mail repair service is mainly divided into six steps: submit the order ->mail the equipment ->confirm the repair scheme ->repair the equipment ->pay the fees ->send back and sign for." 
+       },
+  
+    {
+      "question": "How to mail the equipment?      ",
+      "answer" : "1. After the order is submitted successfully, you need to send the faulty equipment to the address pushed to you. 2. Before sending the express, please delete the lock password and back up your personal data. We do not guarantee the integrity of your data during the maintenance process, nor assume responsibility for data loss. 3. When mailing equipment, please choose insured mailing. Round trip express fee will be repaired by us Undertake (except for the premium). Please properly pack your equipment to avoid accidents during delivery."
+        },
+  
+    {
+      "question": " How long is the maintenance shop cycle? ",
+      "answer" : "After confirming the repair plan, we begin to repair your equipment. Generally, the repair is completed within 72 hours and the payment process begins. "
+    },
+  
+    {
+      "question": " How to confirm the maintenance plan of my computer?      ",
+      "answer" : "After receiving the equipment you sent, we will test it and check the order repair plan according to the test results. If the plan changes, we will contact you to confirm the maintenance plan. "  
+     }   
+  ]
